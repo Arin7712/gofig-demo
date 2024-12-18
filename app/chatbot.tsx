@@ -7,7 +7,7 @@ const Chatbot = () => {
       <Script id="chatbot-config" strategy="beforeInteractive">
         {`
           window.embeddedChatbotConfig = {
-            chatbotId: "gSmMxi67W5BmrbVBAcBX7",
+            chatbotId: "odMZL5EPO8aqVTgX4KSy7",
             domain: "www.chatbase.co"
           };
         `}
